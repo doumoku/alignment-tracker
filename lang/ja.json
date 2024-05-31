@@ -1,1 +1,14 @@
-
+{
+    "alignment-tracker": {
+        "title": "キャラクター属性",
+        "adjustment-title": "キャラクターの属性を調整します",
+        "adjustment-good": "善を増加",
+        "adjustment-evil": "悪を増加",
+        "adjustment-lawful": "秩序を増加",
+        "adjustment-chaotic": "混沌を増加",
+        "setting-show-gm-badge": "GMにバッジコントロールを表示",
+        "setting-show-user-badge": "ユーザにバッジコントロールを表示",
+        "setting-individual-adjustment": "調整度合い",
+        "setting-individual-adjustment-hint": "1 = 滑らかな属性の移動、10 - 凄まじい属性の移動。"
+    }
+}
